@@ -170,3 +170,8 @@
 +defaults/win-64::zlib-1.2.13-h8cc25b3_1
 +defaults/win-64::zstd-1.5.5-hd43e919_2
 # update specs: ['matplotlib', 'scikit-learn', 'numpy', 'pandas', 'jupyter']
+==> 2024-06-30 23:53:53 <==
+# cmd: C:\Users\vanme\anaconda3\Scripts\conda-script.py install seaborn
+# conda version: 4.13.0
++defaults/win-64::seaborn-0.13.2-py312haa95532_0
+# update specs: ['seaborn']
